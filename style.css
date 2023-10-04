@@ -1,0 +1,10 @@
+h1,p{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    background-color: cyan;
+    padding: 40px;
+    border-radius: 30px;
+    
+}
